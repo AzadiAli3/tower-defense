@@ -1,0 +1,57 @@
+Projet Tower Defense C++ 
+
+Voici les plusieurs étapes a faire pour le projet 
+
+🛠️ Plan de travail conseillé
+🔹 Phase 1 : Analyse
+Faire le diagramme de cas d'utilisation (Use Case).
+
+Choisir les design patterns que tu vas utiliser.
+
+Faire un diagramme de classes UML../testSFML
+
+Choisir la librairie graphique (Pygame, SFML, Unity, etc.)
+
+🔹 Phase 2 : Structure du projet
+Implémenter l’architecture MVC.
+
+Créer les classes principales : Jeu, Tour, Ennemi, Carte, Vague, Ressource, ScoreManager, etc.
+
+🔹 Phase 3 : Fonctionnalités essentielles
+Système de vagues
+
+Construction de tours
+
+Déplacement des ennemis
+
+Système de ressources
+
+Détection et tir automatique des tours
+
+🔹 Phase 4 : Améliorations graphiques et UI
+Ajout du menu
+
+Options de son
+
+Barre de vie sur les ennemis
+
+Timer, compteur de vagues, affichage du score
+
+Tableau des scores sauvegardé (fichier ou base de données simple)
+
+🔹 Phase 5 : Finitions
+Gérer victoire/défaite
+
+Affiner les graphismes
+
+Ajouter les crédits
+
+Tester et corriger les bugs
+
+Vérifier que tout le cahier des charges est respecté
+
+
+Interface Graphique : SMFL
+
+Design Pattern : Observer Pattern, Factory Pattern	 
+
